@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 
 <!--
 **mwives/mwives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
