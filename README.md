@@ -21,11 +21,11 @@
 
 Here are some projects (most of them private) that i made or collaborated to:
 
-- 😺 [HUBI](https://www.hubinclusivo.com/) - Community for the inclusive Valorant scenario
+- 😺 [HUBI](https://www.hubinclusivo.com/) (public) - Community for the inclusive Valorant scenario
   - **Tech:** React, Next.js, TypeScript, Tailwind CSS, NestJS, Prisma, PostgreSQL
-- 🐉 [Ryuu no Dojo](https://www.ryuunodojo.com/) - Website for Dojo students to learn outside the Dojo
+- 🐉 [Ryuu no Dojo](https://www.ryuunodojo.com/) (private) - Website for Dojo students to learn outside the Dojo
   - **Tech:** React, Next.js, TypeScript, Sass, Headless CMS, TypeORM, PostgreSQL, AWS, CI/CD, Jest
-- 🥋 [Tenshi do Kan](https://www.tenshidokan.com.br/) - Website for spreading Karate and Japanese culture
+- 🥋 [Tenshi do Kan](https://www.tenshidokan.com.br/) (private) - Website for spreading Karate and Japanese culture
   - **Tech:** React, Next.js, TypeScript, Sass, Headless CMS
 - 📖 [Mangadex Downloader](https://github.com/naygo/mangadex-downloader) (public) - CLI tool to download and convert (MOBI, pdf, zip) manga from [MangaDex API](https://api.mangadex.org/docs/)
   - **Tech:** Node.js, Typescript
