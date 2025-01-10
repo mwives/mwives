@@ -2,7 +2,7 @@
 
 <p>
   Fullstack Developer at <a href="https://www.squadra.com.br/">Squadra Digital</a><br/>
-  Majoring in Computer Science at <a href="https://estacio.br/">Estácio</a>
+  Majoring in Systems Analysis and Development at <a href="https://estacio.br/">Estácio</a>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivesmw/)](https://www.linkedin.com/in/ivesmw)
