@@ -2,7 +2,7 @@
 
 <p>
   Fullstack Developer at <a href="https://www.squadra.com.br/">Squadra Digital</a><br/>
-  Majoring in Systems Analysis and Development at <a href="https://estacio.br/">Estácio</a>
+  Graduated in Systems Analysis and Development
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivesmw/)](https://www.linkedin.com/in/ivesmw)
@@ -12,7 +12,7 @@
 ### Quick facts about me ⚡
 
 - 🎂 22 years old, currently living in Brazil 🇧🇷
-- 👨‍💻 Specializing in Backend with a big interest in Cloud
+- 👨‍💻 Specializing in Backend
 - 🤘 Passionate Metalhead
 - 🎧 Appreciates high-quality audio
 - ✈️ Love to travel
@@ -34,8 +34,8 @@ Here are some projects (most of them private) that i made or collaborated to:
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![Golang Badge](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ![React Badge](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -47,6 +47,7 @@ Here are some projects (most of them private) that i made or collaborated to:
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![MSSQL Badge](https://img.shields.io/badge/-MSSQL-orange?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
 ![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
