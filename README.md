@@ -11,7 +11,7 @@
 
 ### Quick facts about me ⚡
 
-- 🎂 22 years old, currently living in Brazil 🇧🇷
+- 🎂 23 years old, currently living in Brazil 🇧🇷
 - 👨‍💻 Specializing in Backend
 - 🤘 Passionate Metalhead
 - 🎧 Appreciates high-quality audio
