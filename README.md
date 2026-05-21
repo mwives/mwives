@@ -1,57 +1,25 @@
-## Hi, I'm Ives 👋
+# おっす 👋
 
-<p>
-  Fullstack Developer at <a href="https://www.squadra.com.br/">Squadra Digital</a><br/>
-  Graduated in Systems Analysis and Development
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivesmw)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wtnbives@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivesmw/)](https://www.linkedin.com/in/ivesmw)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivesmw@gmail.com)](mailto:ivesmw@gmail.com)
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mwives/)](https://github.com/mwives/) 
+I'm a backend-leaning fullstack dev that just moved to Japan.
+Most experienced in TypeScript, but practicing more Go every day.
 
-### Quick facts about me ⚡
+- 🤘 Metalhead and guitar player
+- 🎬 Bit of a film nerd
+- 🇯🇵 Studying for JLPT N2
 
-- 🎂 23 years old, currently living in Brazil 🇧🇷
-- 👨‍💻 Specializing in Backend
-- 🤘 Passionate Metalhead
-- 🎧 Appreciates high-quality audio
-- ✈️ Love to travel
+### What I'm working on
 
-### Projects 🌐
+Building **HUBI** — a competitive Valorant platform for a female gaming community.
+Microservices with NestJS + Go, Riot Games API integration.
 
-Here are some projects (most of them private) that i made or collaborated to:
+---
 
-- 😺 [HUBI](https://www.hubinclusivo.com/) (public) - Community for the inclusive Valorant scenario
-  - **Tech:** React, Next.js, TypeScript, Tailwind CSS, NestJS, Prisma, PostgreSQL
-- 🐉 [Ryuu no Dojo](https://www.ryuunodojo.com/) (private) - Website for Dojo students to learn outside the Dojo
-  - **Tech:** React, Next.js, TypeScript, Sass, Headless CMS, TypeORM, PostgreSQL, AWS, CI/CD, Jest
-- 🥋 [Tenshi do Kan](https://www.tenshidokan.com.br/) (private) - Website for spreading Karate and Japanese culture
-  - **Tech:** React, Next.js, TypeScript, Sass, Headless CMS
-- 📖 [Mangadex Downloader](https://github.com/naygo/mangadex-downloader) (public) - CLI tool to download and convert (MOBI, pdf, zip) manga from [MangaDex API](https://api.mangadex.org/docs/)
-  - **Tech:** Node.js, Typescript
-
-### Technologies 💻
-
-![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
-![Golang Badge](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)
-
-![React Badge](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL Badge](https://img.shields.io/badge/-MSSQL-orange?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-
-![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
-![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
