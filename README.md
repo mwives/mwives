@@ -12,8 +12,8 @@ Most experienced in TypeScript, but practicing more Go every day.
 
 ### What I'm working on
 
-Building **HUBI** — a competitive Valorant platform for a female gaming community.
-Microservices with NestJS + Go, Riot Games API integration.
+**HUBI** — a competitive Valorant platform for a female gaming community.  
+*NestJS · Go · Riot API · Microservices*
 
 ---
 
